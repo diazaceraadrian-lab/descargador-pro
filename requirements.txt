@@ -1,0 +1,6 @@
+customtkinter
+pandas
+openpyxl
+requests
+Pillow
+rembg[cpu]

@@ -1,0 +1,18 @@
+# Imágenes (descargadas o procesadas)
+*.jpg
+*.jpeg
+*.png
+*.webp
+# Datos de producto
+*.xlsx
+*.csv
+# Ficheros temporales de Python
+__pycache__/
+# Programas compilados y carpetas de compilación
+*.exe
+build/
+dist/
+*.zip
+# Copias de seguridad antiguas (Git ya guarda el historial)
+*.bak*
+*_BACKUP_*
